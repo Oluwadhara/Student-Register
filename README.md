@@ -1,6 +1,4 @@
 ## Student Register
-[Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/a06f78df-81af-4c31-8c3b-32023f4a2370)
-
 An android application that stores data of students locally on the device using Kotlin, Android Studio, XML layout, ROOM, and viewModel.
 - ![Screenshot_20240424_094019_30](https://github.com/Oluwadhara/Student-Register/assets/99046185/ac3db1a7-1ba9-41de-ac7a-b53ab214c31f)
 ### Features
@@ -11,7 +9,7 @@ An android application that stores data of students locally on the device using 
 - ![mj2](https://github.com/Oluwadhara/Student-Register/assets/99046185/b349ed17-2836-46df-b9be-6dcf422e3889)
 - ![Screen_recording_20240424_102253-ezgif com-video-to-gif-converter](https://github.com/Oluwadhara/Student-Register/assets/99046185/3713a179-c92e-4216-9e5a-bcdc02ab8eed)
 3. The UI changes on the selection of a student's information to allow the users edit or delete a particular student information. If a mistake is made, the app allows to edit the details of students thet were previously entered.
-- [Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/ab6d9595-d337-4553-b73b-b279e1848234)
+- [Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/a06f78df-81af-4c31-8c3b-32023f4a2370)
 4. Students data can also be deleted by clicking on the particular student information and pressing the delete button.
 - [Screen_recording_20240424_104539.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/d49aa9df-4d80-4f27-8fd4-775cf955365d)
 5. All students info can also be deleted by clicking the clear all button
