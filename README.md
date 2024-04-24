@@ -1,3 +1,4 @@
+## Student Register
 An android application that stores data of students locally on the device using ROOM and viewModel
 ![Screenshot_20240424_094019_30](https://github.com/Oluwadhara/Student-Register/assets/99046185/ac3db1a7-1ba9-41de-ac7a-b53ab214c31f)
 The app contains two fields for typing in Students name and their email. When the save button is clicked, the app checks if the email address exists, if it does the Name and email address are saved into the database.
