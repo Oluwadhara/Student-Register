@@ -1,5 +1,5 @@
 ## Student Register
-![Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/a06f78df-81af-4c31-8c3b-32023f4a2370)
+[Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/a06f78df-81af-4c31-8c3b-32023f4a2370)
 
 An android application that stores data of students locally on the device using Kotlin, Android Studio, XML layout, ROOM, and viewModel.
 - ![Screenshot_20240424_094019_30](https://github.com/Oluwadhara/Student-Register/assets/99046185/ac3db1a7-1ba9-41de-ac7a-b53ab214c31f)
