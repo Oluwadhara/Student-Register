@@ -7,6 +7,7 @@ An android application that stores data of students locally on the device using 
 2. Multiple students can be added and shown on the UI.
 - ![mj1](https://github.com/Oluwadhara/Student-Register/assets/99046185/4bb84a2f-1c11-439b-aef2-b12c8665c169)
 - ![mj2](https://github.com/Oluwadhara/Student-Register/assets/99046185/b349ed17-2836-46df-b9be-6dcf422e3889)
+- [Screen_recording_20240424_102253-ezgif.com-video-to-gif-converter.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/a858f5b0-b1d1-4fb9-85b1-ed9e9434d063)
 - [Screen_recording_20240424_102253.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/73de3f85-58dc-4975-a5a7-505386bede46)
 3. The UI changes on the selection of a student's information to allow the users edit or delete a particular student information. If a mistake is made, the app allows to edit the details of students thet were previously entered.
 - [Screen_recording_20240424_103332.webm](https://github.com/Oluwadhara/Student-Register/assets/99046185/ab6d9595-d337-4553-b73b-b279e1848234)
