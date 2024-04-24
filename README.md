@@ -11,6 +11,7 @@ An android application that stores data of students locally on the device using 
 3. The UI changes on the selection of a student's information to allow the users edit or delete a particular student information. If a mistake is made, the app allows to edit the details of students thet were previously entered.
 - ![ezgif com-video-to-gif-converter](https://github.com/Oluwadhara/Student-Register/assets/99046185/6b38e6b5-9031-4e89-b8cb-b5487e0a7196)
 4. Students data can also be deleted by clicking on the particular student information and pressing the delete button.
-- ![ezgif com-video-to-gif-converter (1)](https://github.com/Oluwadhara/Student-Register/assets/99046185/3a1fec27-34e7-4c03-8a49-c31725f06608)
+- ![ezgif com-video-to-gif-converter (3)](https://github.com/Oluwadhara/Student-Register/assets/99046185/0659a98b-837c-4103-a869-965b905362c1)
 5. All students info can also be deleted by clicking the clear all button
-- ![ezgif com-video-to-gif-converter (2)](https://github.com/Oluwadhara/Student-Register/assets/99046185/f55dac5c-9834-4f1a-93ae-1afd0f873204)
+- ![ezgif com-video-to-gif-converter (2)](https://github.com/Oluwadhara/Student-Register/assets/99046185/e3c2427e-b829-4a53-9c27-0589b49308a5)
+
